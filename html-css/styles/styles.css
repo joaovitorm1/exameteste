@@ -1,0 +1,35 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: 'Roboto', sans-serif;
+  background-color: aquamarine;
+}
+.titulo {
+  text-align: center;
+  color:blue;
+}
+ul li:nth-child(1) {
+  color: red;
+}
+
+ul li:nth-child(2) {
+  color: blue;
+}
+
+ul li:nth-child(3) {
+  color: green;
+}
+.link {
+  color: red;
+  text-decoration: none;
+}
+
+.link:hover {
+  color: green;
+}
+
+/* SEU CSS AQUI */
